@@ -1,4 +1,4 @@
-## Priscilla Preks       
+### 💬 About me       
 Marketing professional & Tech enthusiast         
 Artificial Intelligence student at PUC/PR (2020-2022)    
 
