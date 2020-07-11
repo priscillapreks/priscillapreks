@@ -1,16 +1,34 @@
-### Hi there 👋
+## Priscilla Preks       
+Marketing professional & Tech enthusiast         
+Artificial Intelligence student at PUC/PR (2020-2022)    
+
+    
+### 🧐 Currently learning    
+
+- Python
+- Data Science 
+- Machine Learning  
+    
+
+### 👯 Communities    
+
+- Head of Marketing at [TechLabs Curitiba](https://techlabs.org)    
+   
+
+### 📫 Contact me
+- [LinkedIn](https://in.linkedin.com/in/priscillapreks)
 
 <!--
 **priscillapreks/priscillapreks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
+- 🌱 Currently learning: Python / Machine Learning / Artificial Intelligence
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- : ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
