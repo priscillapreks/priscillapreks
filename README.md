@@ -1,5 +1,5 @@
 ### 💬 About me       
-Marketing professional & Tech enthusiast         
+Marketing professional >>> Data & AI enthusiast         
 Artificial Intelligence student at PUC/PR (2020-2022)    
 
     
@@ -8,6 +8,12 @@ Artificial Intelligence student at PUC/PR (2020-2022)
 - Python
 - Data Science 
 - Machine Learning  
+
+
+### ⭐ Awards    
+
+- Top100 Maratona Behind the Code IBM Latam 2020
+- Top100 Maratona Behind the Code IBM 2019 
     
 
 ### 👯 Communities    
