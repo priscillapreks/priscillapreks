@@ -1,5 +1,5 @@
 ### 💬 About me       
-Marketing professional >>> Data & AI enthusiast         
+Marketing professional + Tech enthusiast         
 Artificial Intelligence student at PUC/PR (2020-2022)    
 
     
