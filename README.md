@@ -5,7 +5,6 @@ Artificial Intelligence student at PUC/PR (2020-2022)
     
 ### 🧐 Currently learning    
 
-- Python
 - Data Science 
 - Machine Learning  
 
