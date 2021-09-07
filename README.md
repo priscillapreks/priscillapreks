@@ -1,12 +1,12 @@
 ### 💬 About me       
 Marketing professional + Tech enthusiast         
-Artificial Intelligence student at PUC/PR (2020-2022)    
+    
 
     
 ### 🧐 Currently learning    
 
-- Data Science 
-- Machine Learning  
+- Artificial Intelligence (PUC/PR 2020-2022)  
+- Data Science Nanodegree (Udacity)  
 
 
 ### ⭐ Awards    
