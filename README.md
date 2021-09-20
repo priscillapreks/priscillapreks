@@ -1,5 +1,5 @@
 ### 💬 About me       
-Marketing professional + Tech enthusiast         
+- Marketing professional + Tech enthusiast         
 
 
 ### 🎓 Education    
