@@ -1,12 +1,15 @@
 ### 💬 About me       
 Marketing professional + Tech enthusiast         
-    
 
-    
-### 🧐 Currently learning    
 
-- Artificial Intelligence (PUC/PR 2020-2022)  
-- Data Science Nanodegree (Udacity)  
+### 🎓 Education    
+
+- Artificial Intelligence (PUC/PR 2020-2022)   
+
+
+### ✔ Certifications    
+
+- Microsoft Azure AI Fundamentals
 
 
 ### ⭐ Awards    
@@ -17,7 +20,7 @@ Marketing professional + Tech enthusiast
 
 ### 👯 Communities    
 
-- Head of Marketing at [TechLabs Curitiba](https://techlabs.org)    
+- Marketing at [TechLabs Curitiba](https://techlabs.org)    
    
 
 ### 📫 Contact me
