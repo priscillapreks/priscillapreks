@@ -1,10 +1,18 @@
 ### 💬 About me       
-- Marketing professional + Tech enthusiast         
+- A motivated and personable student pursuing a degree in Applied Artificial Intelligence at the Pontifical Catholic University of Paraná (PUCPR). Skilled in Python programming, machine learning, and data storytelling. Creative, driven, energetic and eager to learn new skills. Used my skills to be among the Maratona Behind the Code finalists three years in a row (2019-2021), now eager to apply the same knowledge to real-world business problems.
+       
 
 
 ### 🎓 Education    
 
 - Artificial Intelligence (PUC/PR 2020-2022)   
+
+
+
+### ⚡ Skills (Entry-level)
+
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Flask); SQL; Data Cleaning; Data Visualization (Tableau); Data Storytelling; Machine Learning; Git and Version Control.
+
 
 
 ### ✔ Certifications    
@@ -14,13 +22,9 @@
 
 ### ⭐ Awards    
 
-- Top100 Maratona Behind the Code IBM Latam 2020
+- Top100 Maratona Behind the Code IBM Latam 2020 & 2021
 - Top100 Maratona Behind the Code IBM 2019 
     
-
-### 👯 Communities    
-
-- Marketing at [TechLabs Curitiba](https://techlabs.org)    
    
 
 ### 📫 Contact me
