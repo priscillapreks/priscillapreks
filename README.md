@@ -1,5 +1,5 @@
 ### 💬 About me       
-- A motivated and personable student pursuing a degree in Applied Artificial Intelligence at the Pontifical Catholic University of Paraná (PUCPR). Skilled in Python programming, machine learning, and data storytelling. Creative, driven, energetic and eager to learn new skills. Used my skills to be among the Maratona Behind the Code finalists three years in a row (2019-2021), now eager to apply the same knowledge to real-world business problems.
+- A motivated and personable student pursuing a degree in Applied Artificial Intelligence at the Pontifical Catholic University of Paraná (PUCPR). Creative, driven, energetic and eager to learn new skills. Used my skills to be among the Maratona Behind the Code finalists three years in a row (2019-2021), now eager to apply the same knowledge to real-world business problems.
        
 
 
